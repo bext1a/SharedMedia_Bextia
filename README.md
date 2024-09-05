@@ -1,4 +1,4 @@
-# Bextia Media Pack
+# SharedMedia_Bextia
 
 SharedMedia_Bextia is a simple and customizable library for World of Warcraft that provides custom status bars, fonts, and sound assets for use in UI customization and other addons.
 
