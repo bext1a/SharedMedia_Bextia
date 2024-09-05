@@ -1,4 +1,4 @@
-# SharedMedia_Bextia
+# Bextia Media Pack
 
 SharedMedia_Bextia is a simple and customizable library for World of Warcraft that provides custom status bars, fonts, and sound assets for use in UI customization and other addons.
 
@@ -29,7 +29,7 @@ Sound files generated using AI, available in Spanish, which can be used as alert
 ## Installation:
 
 1. **Manual Installation**:
-   - Download the latest version from CurseForge or WowUp.
+   - Download the latest version from the [Releases page](https://github.com/tu-repositorio/releases) on this GitHub repository.
    - Extract the folder to `World of Warcraft/_retail_/Interface/Addons/`.
 
 2. **Via CurseForge/WowUp**:
