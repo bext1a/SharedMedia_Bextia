@@ -29,7 +29,7 @@ Sound files generated using AI, available in Spanish, which can be used as alert
 ## Installation:
 
 1. **Manual Installation**:
-   - Download the latest version from the [Releases page](https://github.com/tu-repositorio/releases) on this GitHub repository.
+   - Download the latest version from the [Releases page](https://github.com/bext1a/SharedMedia_Bextia/releases) on this GitHub repository.
    - Extract the folder to `World of Warcraft/_retail_/Interface/Addons/`.
 
 2. **Via CurseForge/WowUp**:
